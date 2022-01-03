@@ -5,7 +5,7 @@
 * **Address:** Tashkent, Uzbekistan
 * **Phone:** +998 93 971 71 99
 * **E-mail:** zevauz0707@mail.ru
-* **GitHub:** [yunusovAkmal]('https://github.com/yunusovAkmal')
+* **GitHub:** [yunusovAkmal](https://github.com/yunusovAkmal)
 * **Discord:** akmal(@yunusovAkmal)
 
 ## About myself
