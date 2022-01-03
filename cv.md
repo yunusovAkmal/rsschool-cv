@@ -31,7 +31,7 @@ console.log(result)
 I have experience Frontend development. I have worked in the team on small projects and currently working.
 
 ## Education
- __Zako IT Academy__(Frontend Developer)
+ __Zako IT Academy__ (Frontend Developer)
 ## Languages
 * Russian (Intermediate)
 * English (B1)
